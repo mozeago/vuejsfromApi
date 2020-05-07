@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 16,
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "html.format.indentHandlebars": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "vetur.format.options.useTabs": true,
+    "blade.format.enable": true,
+    "phpformatter.composer": true,
+    "phpformatter.logging": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.snippetSuggestions": "bottom",
+    "[php]": {
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+    }
+}
